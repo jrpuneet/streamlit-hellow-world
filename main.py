@@ -1,6 +1,8 @@
 import streamlit as st
 
+st.title("My first app")
+
 st.write(""" 
-# My first app
+# Here it goes...
 Hello *world!* 
 """)
